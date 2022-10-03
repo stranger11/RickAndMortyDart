@@ -48,6 +48,29 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
 
+  cupertino_icons: ^1.0.2
+
+  # Value equality
+  equatable:
+
+  # Functional programming thingies
+  dartz:
+
+  # Remote API
+  http:
+  internet_connection_checker:
+
+  # Local cache
+  shared_preferences:
+  cached_network_image:
+
+  # Bloc / Cubit for state management
+  flutter_bloc:
+
+  # DI
+  get_it:
+
+
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
